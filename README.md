@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amresh
-- 👀 I’m interested in chess
-- 🌱 I’m currently learning devops
+- 👀 I’m interested in exploring new things
+- 🌱 I’m currently learing Front-end dev
 - 📫 How to reach me https://www.linkedin.com/in/professional-amresh/
 
 <!---
